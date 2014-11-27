@@ -1,0 +1,6 @@
+[submodule "magento2"]
+	path = magento2
+	url = ./magento2
+[submodule "m2-sample-data"]
+	path = m2-sample-data
+	url = ./m2-sample-data
