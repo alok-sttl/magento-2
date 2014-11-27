@@ -16,8 +16,8 @@ php -f ./magento2/dev/tools/Magento/Tools/View/deploy.php
 
 Reinstalling the Magento 2 software
 --------------
-cd [your Magento install dir]
-git pull
-composer install
-cd setup
-composer install
+1. cd [your Magento install dir]
+2. git pull
+3. composer install
+4. cd setup
+5. composer install
