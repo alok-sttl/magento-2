@@ -6,9 +6,10 @@ INSTALLTAION (Using GIThub Poweshell)
 2. Download composer.phar and put in magento2 (php -r "readfile('https://getcomposer.org/installer');" | php OR WGET https://getcomposer.org/installer)
 3. Run php composer.phar install
 4. Copy composer.phar and put in magento2/setup
-5. Run php composer.phar install
-6. Run http://www.domain.com/magento2/setup in browser
-7. Enter details and continue
+5. Open magento2/setup
+6. Run php composer.phar install
+7. Run http://www.domain.com/magento2/setup in browser
+8. Enter details and continue
 
 Deploy CSS and JS
 ------------------
